@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_margin="15dp"
+    android:id="@+id/mybooks_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="MY BOOKS"/>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/addCategoryBtn"
+        android:layout_width="match_parent"
+        android:layout_height="107dp"
+        android:background="@drawable/shape_button01"
+        android:text="Add category"
+        android:textSize="32sp" />
+</RelativeLayout>
+
+
+</LinearLayout>

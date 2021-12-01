@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639180226944",
+    "project_id": "aizhanlibrary",
+    "storage_bucket": "aizhanlibrary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639180226944:android:8d6f2a2dbcb14ecd58c165",
+        "android_client_info": {
+          "package_name": "com.example.aizhanlibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639180226944-36lqiqq2aegvknt06arg3kddcb3842ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvCm_IvssJirU_Di_HUPWEFPTNVM1WV-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639180226944-36lqiqq2aegvknt06arg3kddcb3842ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
