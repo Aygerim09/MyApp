@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AizhanLibrary</string>
+    <string name="app_name">Library App</string>
     <string name="title_home">Add Category</string>
     <string name="title_my_books">My Books</string>
     <string name="title_profile">Profile</string>

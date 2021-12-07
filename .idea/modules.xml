@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AizhanLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/AizhanLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AizhanLibrary.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AizhanLibrary.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Library.iml" filepath="$PROJECT_DIR$/.idea/modules/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Library.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Library.app.iml" />
     </modules>
   </component>
 </project>
